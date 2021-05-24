@@ -2,5 +2,9 @@
 	"form.recognizer": {
 		"api" : "YOUR_ENDPOINT_HERE",
 		"key" : "YOUR_KEY_HERE"
+	},
+	"form.recognizer.custom": {
+		"modelID" : "YOUR_CUSTOM_MODEL_ID",
+		"SAS_URL" : "SAS_URL_IMAGE"
 	}
 }
