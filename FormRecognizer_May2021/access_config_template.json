@@ -1,0 +1,6 @@
+{
+	"form.recognizer": {
+		"api" : "YOUR_ENDPOINT_HERE",
+		"key" : "YOUR_KEY_HERE"
+	}
+}
